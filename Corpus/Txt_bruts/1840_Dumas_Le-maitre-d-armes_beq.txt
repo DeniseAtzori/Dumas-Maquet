@@ -1,34 +1,3 @@
-Alexandre Dumas
-Le maître d’armes
-BeQ
-Alexandre Dumas
-Le maître d’armes
-roman
-La Bibliothèque électronique du Québec
-Collection À tous les vents
-Volume 195 : version 1.01
-2
-Du même auteur, à la Bibliothèque :
-Les Louves de Machecoul
-Les mille et un fantômes
-La femme au collier de velours
-Le prince des voleurs
-Robin Hood, le proscrit
-Les compagnons de Jéhu
-Le comte de Monte-Cristo
-La San Felice
-La reine Margot
-Les trois mousquetaires
-Vingt ans après
-Le vicomte de Bragelonne
-Le chevalier de Maison-Rouge
-Histoire d’un casse-noisette et autres contes
-La bouillie de la comtesse Berthe et autres contes
-3
-Le maître d’armes
-Édition de référence :
-Paris, Éditions des Syrtes, 2002.
-4
 Ah ! pardieu ! voilà un miracle, me dit Grisier
 en me voyant paraître à la porte de la salle
 d’armes où il était resté le dernier et tout seul.
@@ -5618,7 +5587,6 @@ après trente-sept heures d’agonie, avait proclamé
 dans le palais Paul I
 er autocrate de toutes les
 Russies. À ce cri, l’impératrice Marie était
-249
 tombée aux genoux de son mari avec ses enfants
 et l’avait la première salué tsar. Paul les avait
 relevés en les assurant de ses bontés impériales et

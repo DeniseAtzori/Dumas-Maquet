@@ -2,4 +2,6 @@
 
 Dossier lié au projet Dumas-Maquet dans le cadre du cours 2025/2025 de Philologie computationelle à l'ENC-PSL.
 
-## Instructions pour le titrage des fichiers du corpus
+## Dans les dossiers:
+- Txt_bruts: les textes originaux
+- Txt_nettoye: les textes apès nettoyage
